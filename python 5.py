@@ -7,3 +7,7 @@ else :
 print(type(age))
 
 print("aabidh\'s")
+
+print(len(str(age)))
+
+print()
