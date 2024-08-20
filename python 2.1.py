@@ -1,0 +1,1 @@
+print(" string manipulation excerise \n string concatenation is done using + sign \n e.g. print('hello' + 'aabidh') \n new lines can be created with a backlash and n ")
