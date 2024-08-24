@@ -15,3 +15,16 @@ if height >= 1.5:
 else:
     print("You can't ride the rollercoaster.")
 print("Thank you for visiting us.")
+
+#excercise 
+Number = int(input("Enter a number: "))
+if Number == 1 :
+    print("number one")
+elif Number == 2:
+    print("number two")
+elif Number == 3:
+    print("number three")
+elif Number == 4:
+    print("number four")
+else :
+    print("number not found")
