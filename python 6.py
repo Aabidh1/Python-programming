@@ -16,4 +16,4 @@ print(round(12.5))
 print(round(13.5,-1)) # round to nearest 10
 print(round(14.5,-1))
 print(round(6.75,1))
-print(round(1212,-2))
+print(round(1212,-2)) # round to nearest 100
