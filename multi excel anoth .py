@@ -1,6 +1,6 @@
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))
-
+bill = 0
 if age < 18:
     bill = 100
     print("You need to pay 100")
